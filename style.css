@@ -37,5 +37,13 @@
     left: 400px;
     top: -500px;
     animation: block 2s infinite linear;
+}
 
+#CHARACTER {
+    width: 20px;
+    height: 20px;
+    background-color: #900;
+    position: absolute;
+    top: 100px;
+    border-radius: 50%;
 }
